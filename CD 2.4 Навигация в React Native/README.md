@@ -12,4 +12,7 @@
 Добавьте Navigation Drawer.  
 ## Приложение
 ![Alt Text](https://github.com/dvaisluk/Android/blob/main/CD%202.4%20%D0%9D%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B2%20React%20Native/ph/photo_2022-04-22_12-20-42.jpg?raw=true)
-![Alt Text]()
+![Alt Text](https://github.com/dvaisluk/Android/blob/main/CD%202.4%20%D0%9D%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B2%20React%20Native/ph/photo_2022-04-22_12-20-45.jpg?raw=true)
+![Alt Text](https://github.com/dvaisluk/Android/blob/main/CD%202.4%20%D0%9D%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B2%20React%20Native/ph/photo_2022-04-22_12-20-47.jpg?raw=true)
+![Alt Text](https://github.com/dvaisluk/Android/blob/main/CD%202.4%20%D0%9D%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B2%20React%20Native/ph/photo_2022-04-22_12-20-50.jpg?raw=true)
+![Alt Text](https://github.com/dvaisluk/Android/blob/main/CD%202.4%20%D0%9D%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B2%20React%20Native/ph/photo_2022-04-22_12-20-52.jpg?raw=true)
