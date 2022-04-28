@@ -8,4 +8,6 @@
 Что такое параллакс-эффект?  
 Это смещение близкого объекта относительно далекого при изменении угла зрения. Благодаря этому эффекту мы видим предметы в объеме, воспринимаем глубину и понимаем, что находится ближе, а что дальше. На сайтах изображение плоское, и дизайнер может только создать иллюзию объема. В этом может помочь параллакс-эффект.  
 ## Приложение
-![animation](https://user-images.githubusercontent.com/70998859/163562201-2f82f8e9-cd20-4289-8312-8f28d28cd7af.gif)
+![animation](https://github.com/dvaisluk/Android/blob/main/CD%202.5%20%D0%90%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D1%8F/photo_2022-04-28_22-37-32.jpg)
+![animation](https://github.com/dvaisluk/Android/blob/main/CD%202.5%20%D0%90%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D1%8F/photo_2022-04-28_22-37-35.jpg)
+![animation](https://github.com/dvaisluk/Android/blob/main/CD%202.5%20%D0%90%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D1%8F/photo_2022-04-28_22-37-38.jpg)
